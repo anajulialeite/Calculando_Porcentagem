@@ -1,0 +1,15 @@
+C:\Users\Master\Desktop\aprendendoC#\aprendendoC#\bin\Debug\aprendendoC#.exe.config
+C:\Users\Master\Desktop\aprendendoC#\aprendendoC#\bin\Debug\aprendendoC#.exe
+C:\Users\Master\Desktop\aprendendoC#\aprendendoC#\bin\Debug\aprendendoC#.pdb
+C:\Users\Master\Desktop\aprendendoC#\aprendendoC#\obj\Debug\aprendendoC#.csproj.AssemblyReference.cache
+C:\Users\Master\Desktop\aprendendoC#\aprendendoC#\obj\Debug\aprendendoC#.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\aprendendoC#\aprendendoC#\obj\Debug\aprendendoC#.exe
+C:\Users\Master\Desktop\aprendendoC#\aprendendoC#\obj\Debug\aprendendoC#.pdb
+C:\Users\Master\Desktop\aprendendoC#\aprendendoC#\obj\Debug\aprendendoC#.exe.config
+C:\Users\Master\Desktop\Calculando Porcentagem\aprendendoC#\bin\Debug\aprendendoC#.exe.config
+C:\Users\Master\Desktop\Calculando Porcentagem\aprendendoC#\bin\Debug\aprendendoC#.exe
+C:\Users\Master\Desktop\Calculando Porcentagem\aprendendoC#\bin\Debug\aprendendoC#.pdb
+C:\Users\Master\Desktop\Calculando Porcentagem\aprendendoC#\obj\Debug\aprendendoC#.csproj.AssemblyReference.cache
+C:\Users\Master\Desktop\Calculando Porcentagem\aprendendoC#\obj\Debug\aprendendoC#.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\Calculando Porcentagem\aprendendoC#\obj\Debug\aprendendoC#.exe
+C:\Users\Master\Desktop\Calculando Porcentagem\aprendendoC#\obj\Debug\aprendendoC#.pdb
